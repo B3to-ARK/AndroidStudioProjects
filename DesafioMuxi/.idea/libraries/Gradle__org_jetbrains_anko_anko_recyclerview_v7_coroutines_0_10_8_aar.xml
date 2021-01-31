@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.anko:anko-recyclerview-v7-coroutines:0.10.8@aar">
+    <CLASSES>
+      <root url="jar://C:/Gradle/gradle-6.8.2/caches/transforms-2/files-2.1/c019826027df62a7c498475125a800d9/jetified-anko-recyclerview-v7-coroutines-0.10.8/jars/classes.jar!/" />
+      <root url="file://C:/Gradle/gradle-6.8.2/caches/transforms-2/files-2.1/c019826027df62a7c498475125a800d9/jetified-anko-recyclerview-v7-coroutines-0.10.8/res" />
+      <root url="file://C:/Gradle/gradle-6.8.2/caches/transforms-2/files-2.1/c019826027df62a7c498475125a800d9/jetified-anko-recyclerview-v7-coroutines-0.10.8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Gradle/gradle-6.8.2/caches/modules-2/files-2.1/org.jetbrains.anko/anko-recyclerview-v7-coroutines/0.10.8/7925fb306f7344ca37631ad89e68cba32cd1613e/anko-recyclerview-v7-coroutines-0.10.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

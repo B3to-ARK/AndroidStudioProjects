@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.louiscad.splitties:splitties-appctx-android:3.0.0-beta01@aar">
+    <CLASSES>
+      <root url="jar://C:/Gradle/gradle-6.8.2/caches/transforms-2/files-2.1/0eefd78e2b87c5b002c2dbd831a7bdfa/jetified-appctx-debug/jars/classes.jar!/" />
+      <root url="file://C:/Gradle/gradle-6.8.2/caches/transforms-2/files-2.1/0eefd78e2b87c5b002c2dbd831a7bdfa/jetified-appctx-debug/res" />
+      <root url="file://C:/Gradle/gradle-6.8.2/caches/transforms-2/files-2.1/0eefd78e2b87c5b002c2dbd831a7bdfa/jetified-appctx-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
