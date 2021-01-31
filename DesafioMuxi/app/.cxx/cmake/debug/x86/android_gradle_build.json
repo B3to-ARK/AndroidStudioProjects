@@ -1,0 +1,43 @@
+{
+  "stringTable": {
+    "0": "D:/AndroidStudioProjects/DesafioMuxi/app/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android26 --gcc-toolchain=D:/adroidSDK/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/adroidSDK/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "D:\\adroidSDK\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "D:\\adroidSDK\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\adroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "D:\\adroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-x86": {
+      "buildCommand": "D:\\adroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\debug\\x86\" native-lib",
+      "buildType": "debug",
+      "toolchain": "3362292133",
+      "abi": "x86",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\src\\main\\cpp\\native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libnative-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "3362292133": {
+      "cppCompilerExecutable": "D:\\adroidSDK\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
