@@ -1,2 +1,2 @@
 # AndroidStudioProjects
-projetos do Android Studio
+Projeto para o Desafio Muxi Mobile
