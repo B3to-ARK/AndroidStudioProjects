@@ -1,2 +1,0 @@
-com/example/teste2/BuildConfig.java
- com.example.teste2.BuildConfig
