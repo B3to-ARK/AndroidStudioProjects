@@ -1,0 +1,9 @@
+# ninja log v5
+1	369	633819515	CMakeFiles/native-lib.dir/native-lib.cpp.o	b22a92fa092c886a
+371	449	633819515	C:/Users/pokeu/AndroidStudioProjects/teste2/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	c2436b51d9d299ad
+1	305	633828393	CMakeFiles/native-lib.dir/native-lib.cpp.o	b22a92fa092c886a
+306	382	633828393	C:/Users/pokeu/AndroidStudioProjects/teste2/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	c2436b51d9d299ad
+1	344	633844568	CMakeFiles/native-lib.dir/native-lib.cpp.o	b22a92fa092c886a
+345	418	633844568	C:/Users/pokeu/AndroidStudioProjects/teste2/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	c2436b51d9d299ad
+15	2285	634053666	CMakeFiles/native-lib.dir/native-lib.cpp.o	b22a92fa092c886a
+2285	2861	634053667	C:/Users/pokeu/AndroidStudioProjects/teste2/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	c2436b51d9d299ad
