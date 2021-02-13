@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesafioMuxi.iml" filepath="$PROJECT_DIR$/.idea/modules/DesafioMuxi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DesafioMuxi.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DesafioMuxi.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Desafio_Muxi.iml" filepath="$PROJECT_DIR$/.idea/modules/Desafio_Muxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Desafio_Muxi.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Desafio_Muxi.app.iml" />
     </modules>
   </component>
 </project>

@@ -5,17 +5,95 @@
       <config />
     </shared>
   </component>
-  <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8887bf43-b5fd-4caf-b18b-0f7ab040065e" name="Default Changelist" comment="" />
+    <list default="true" id="37236a42-6094-45ac-a63b-6526be612ce5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/desafiomuxi/Fruits.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/desafiomuxi/ItemClickSupport.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/desafiomuxi/LineHolder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/desafiomuxi/Lineadapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/desafiomuxi/TelaFruta.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_tela_fruta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/viewholder.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/ids.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/androidTest/java/com/example/teste2/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/cpp/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/cpp/native-lib.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/java/com/example/teste2/CustomAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/java/com/example/teste2/Fruits.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/java/com/example/teste2/ListRowHolder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/java/com/example/teste2/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/layout/adapter_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/app/src/test/java/com/example/teste2/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2/settings.gradle" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_2_API_29]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -26,66 +104,37 @@
       <list>
         <option value="Kotlin Data Class" />
         <option value="valueResourceFile" />
-        <option value="layoutResourceFile" />
         <option value="Kotlin Class" />
-        <option value="JUnit4 Test Class" />
-        <option value="Class" />
-        <option value="JUnit5 Test Class" />
+        <option value="layoutResourceFile" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1oJWwz4ve2Zz1B7Tj0UOnKDwf7v" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1oMHptyAE6Eh7kP6fgxFOdehwWx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ResourceManagerPrefKey.ResourceType" value="NAVIGATION" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="android.sdk.path" value="D:/adroidSDK" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../adroidSDK" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/androidTest/java/com/example/recyclerteste" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.example.recyclerteste" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="android.template.-419766733">
-      <recent name="com.example.recyclerteste" />
+    <key name="android.template.1950760496">
+      <recent name="com.example.desafiomuxi" />
     </key>
   </component>
-  <component name="RunManager" selected="Android Instrumented Tests.validateIntentSent...() (1)">
-    <configuration name="FruitsTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DesafioMuxi.app" />
-      <shortenClasspath name="MANIFEST" />
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.recyclerteste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example.recyclerteste" />
-      <option name="MAIN_CLASS_NAME" value="com.example.recyclerteste.FruitsTest" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -94,7 +143,7 @@
       </method>
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="DesafioMuxi.app" />
+      <module name="Desafio_Muxi.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -150,337 +199,43 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isShowFruitName() (1)" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
-      <module name="DesafioMuxi.app" />
-      <option name="TESTING_TYPE" value="3" />
-      <option name="METHOD_NAME" value="isShowFruitName" />
-      <option name="CLASS_NAME" value="com.example.recyclerteste.MainActivityTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="DEBUGGER_TYPE" value="Auto" />
-      <Auto>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Auto>
-      <Hybrid>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Hybrid>
-      <Java />
-      <Native>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Native>
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
-        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
-        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-      </Profilers>
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="shouldClick()" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
-      <module name="DesafioMuxi.app" />
-      <option name="TESTING_TYPE" value="3" />
-      <option name="METHOD_NAME" value="shouldClick" />
-      <option name="CLASS_NAME" value="com.example.recyclerteste.MainActivityTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="DEBUGGER_TYPE" value="Auto" />
-      <Auto>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Auto>
-      <Hybrid>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Hybrid>
-      <Java />
-      <Native>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Native>
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
-        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
-        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-      </Profilers>
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="validateIntentSent...() (1)" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
-      <module name="DesafioMuxi.app" />
-      <option name="TESTING_TYPE" value="3" />
-      <option name="METHOD_NAME" value="validateIntentSentToPackage" />
-      <option name="CLASS_NAME" value="com.example.recyclerteste.TelaFrutaTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="DEBUGGER_TYPE" value="Auto" />
-      <Auto>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Auto>
-      <Hybrid>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Hybrid>
-      <Java />
-      <Native>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Native>
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
-        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
-        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-      </Profilers>
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="validateIntentSent...()" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
-      <module name="DesafioMuxi.app" />
-      <option name="TESTING_TYPE" value="3" />
-      <option name="METHOD_NAME" value="validateIntentSentToPackage" />
-      <option name="CLASS_NAME" value="com.example.recyclerteste.MainActivityTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="DEBUGGER_TYPE" value="Auto" />
-      <Auto>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Auto>
-      <Hybrid>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Hybrid>
-      <Java />
-      <Native>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-      </Native>
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
-        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
-        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-      </Profilers>
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Android App.app" />
-      <item itemvalue="Android Instrumented Tests.shouldClick()" />
-      <item itemvalue="Android Instrumented Tests.isShowFruitName() (1)" />
-      <item itemvalue="Android Instrumented Tests.validateIntentSent...()" />
-      <item itemvalue="Android Instrumented Tests.validateIntentSent...() (1)" />
-      <item itemvalue="Android JUnit.FruitsTest" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Android Instrumented Tests.validateIntentSent...() (1)" />
-        <item itemvalue="Android Instrumented Tests.validateIntentSent...()" />
-        <item itemvalue="Android Instrumented Tests.shouldClick()" />
-        <item itemvalue="Android Instrumented Tests.isShowFruitName() (1)" />
-        <item itemvalue="Android JUnit.FruitsTest" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8887bf43-b5fd-4caf-b18b-0f7ab040065e" name="Default Changelist" comment="" />
-      <created>1613005415969</created>
+      <changelist id="37236a42-6094-45ac-a63b-6526be612ce5" name="Default Changelist" comment="" />
+      <created>1613089725448</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1613005415969</updated>
+      <updated>1613089725448</updated>
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="284" y="8" key="#ExampleUnitTest" timestamp="1613243806089">
+    <state x="439" y="323" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1613091973342">
       <screen x="0" y="0" width="1347" height="900" />
     </state>
-    <state x="284" y="8" key="#ExampleUnitTest.addition_isCorrect" timestamp="1613243829448">
+    <state x="439" y="323" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613091973342" />
+    <state x="254" y="206" key="AndroidCreateResourceFileDialog" timestamp="1613090589449">
       <screen x="0" y="0" width="1347" height="900" />
     </state>
-    <state x="284" y="8" key="#ExampleUnitTest.addition_isCorrect/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613243829448" />
-    <state x="284" y="8" key="#ExampleUnitTest/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613243806089" />
-    <state x="378" y="17" key="#MainActivity" timestamp="1613244013825">
+    <state x="254" y="206" key="AndroidCreateResourceFileDialog/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613090589449" />
+    <state x="454" y="206" key="FileChooserDialogImpl" timestamp="1613091887673">
       <screen x="0" y="0" width="1347" height="900" />
     </state>
-    <state x="378" y="17" key="#MainActivity/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613244013825" />
-    <state x="127" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613514644130">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state x="127" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613514644130" />
-    <state x="456" y="167" key="#com.intellij.ide.util.MemberChooser" timestamp="1613177235122">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state x="456" y="167" key="#com.intellij.ide.util.MemberChooser/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613177235122" />
-    <state x="403" y="8" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1613327909138">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state x="403" y="8" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613327909138" />
-    <state x="378" y="17" key="#onCreate()" timestamp="1613330916306">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state x="378" y="17" key="#onCreate()/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613330916306" />
-    <state x="378" y="17" key="#shouldClick()" timestamp="1613408193666">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state x="378" y="17" key="#shouldClick()/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613408193666" />
-    <state x="378" y="17" key="#validateIntentSent...()" timestamp="1613607622317">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state x="378" y="17" key="#validateIntentSent...()/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613607622317" />
-    <state x="394" y="277" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1613083843507">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state x="394" y="277" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613083843507" />
-    <state x="253" y="204" key="AndroidCreateResourceFileDialog" timestamp="1613005633311">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state x="253" y="204" key="AndroidCreateResourceFileDialog/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613005633311" />
-    <state x="522" y="244" key="AndroidCreateXmlResourceDialog" timestamp="1613323485304">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state x="522" y="244" key="AndroidCreateXmlResourceDialog/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613323485304" />
-    <state x="453" y="204" key="FileChooserDialogImpl" timestamp="1613608395040">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state x="453" y="204" key="FileChooserDialogImpl/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613608395040" />
-    <state width="587" height="223" key="GridCell.Tab.0.bottom" timestamp="1613607674402">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state width="587" height="223" key="GridCell.Tab.0.bottom/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613607674402" />
-    <state width="587" height="223" key="GridCell.Tab.0.center" timestamp="1613607674402">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state width="587" height="223" key="GridCell.Tab.0.center/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613607674402" />
-    <state width="587" height="223" key="GridCell.Tab.0.left" timestamp="1613607674402">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state width="587" height="223" key="GridCell.Tab.0.left/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613607674402" />
-    <state width="587" height="223" key="GridCell.Tab.0.right" timestamp="1613607674402">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state width="587" height="223" key="GridCell.Tab.0.right/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613607674402" />
-    <state width="643" height="223" key="GridCell.Tab.1.bottom" timestamp="1613523762750">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state width="643" height="223" key="GridCell.Tab.1.bottom/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613523762750" />
-    <state width="643" height="223" key="GridCell.Tab.1.center" timestamp="1613523762749">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state width="643" height="223" key="GridCell.Tab.1.center/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613523762749" />
-    <state width="643" height="223" key="GridCell.Tab.1.left" timestamp="1613523762749">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state width="643" height="223" key="GridCell.Tab.1.left/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613523762749" />
-    <state width="643" height="223" key="GridCell.Tab.1.right" timestamp="1613523762749">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state width="643" height="223" key="GridCell.Tab.1.right/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613523762749" />
-    <state x="174" y="94" key="SettingsEditor" timestamp="1613512946606">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state x="174" y="94" key="SettingsEditor/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613512946605" />
-    <state x="489" y="227" key="chooseDestDirectoryDialog" timestamp="1613607411813">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state x="489" y="227" key="chooseDestDirectoryDialog/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613607411813" />
-    <state x="444" y="0" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1613607411830">
-      <screen x="0" y="0" width="1347" height="900" />
-    </state>
-    <state x="444" y="0" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613607411830" />
+    <state x="454" y="206" key="FileChooserDialogImpl/0.0.1347.900/1440.0.1280.680@0.0.1347.900" timestamp="1613091887673" />
   </component>
 </project>

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "outputFile": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
             "map": [
                 {
                     "source": "C:\\Gradle\\gradle-6.8.2\\caches\\transforms-2\\files-2.1\\fd3078eaca655044f0fafa137d9452eb\\navigation-ui-2.3.3\\res\\values-en-rIN\\values-en-rIN.xml",

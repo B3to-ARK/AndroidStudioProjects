@@ -5,9 +5,9 @@
     "environmentVariables": []
   },
   "cmake": {
-    "cmakeArtifactsBaseFolder": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\release\\x86",
-    "cmakeServerLogFile": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\release\\x86\\cmake_server_log.txt",
-    "cmakeWrappingBaseFolder": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cxx\\release\\x86",
+    "cmakeArtifactsBaseFolder": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\release\\x86",
+    "cmakeServerLogFile": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\release\\x86\\cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cxx\\release\\x86",
     "effectiveConfiguration": {
       "name": "traditional-android-studio-cmake-environment",
       "description": "Composite reified CMakeSettings configuration",
@@ -15,13 +15,13 @@
       "inheritEnvironments": [
         "ndk"
       ],
-      "buildRoot": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\release\\x86",
+      "buildRoot": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\release\\x86",
       "cmakeToolchain": "D:\\adroidSDK\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
       "cmakeExecutable": "D:\\adroidSDK\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
       "variables": [
         {
           "name": "CMAKE_FIND_ROOT_PATH",
-          "value": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\release\\prefab\\x86\\prefab"
+          "value": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\release\\prefab\\x86\\prefab"
         },
         {
           "name": "CMAKE_BUILD_TYPE",
@@ -57,7 +57,7 @@
         },
         {
           "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
-          "value": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\build\\intermediates\\cmake\\release\\obj\\x86"
+          "value": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\build\\intermediates\\cmake\\release\\obj\\x86"
         },
         {
           "name": "CMAKE_MAKE_PROGRAM",
@@ -74,14 +74,14 @@
       ]
     }
   },
-  "cxxBuildFolder": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\release\\x86",
+  "cxxBuildFolder": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\release\\x86",
   "info": {
     "abi": "X86",
     "bitness": 32,
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\release\\x86",
+  "originalCxxBuildFolder": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\release\\x86",
   "variant": {
     "buildSystemArgumentList": [],
     "buildTargetSet": [],
@@ -100,12 +100,12 @@
         "ninjaExe": "D:\\adroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
       },
       "cmakeToolchainFile": "D:\\adroidSDK\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
-      "cxxFolder": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx",
+      "cxxFolder": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx",
       "gradleModulePathName": ":app",
-      "intermediatesFolder": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\build\\intermediates",
-      "makeFile": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\src\\main\\cpp\\CMakeLists.txt",
-      "moduleBuildFile": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\build.gradle",
-      "moduleRootFolder": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app",
+      "intermediatesFolder": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\build\\intermediates",
+      "makeFile": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\src\\main\\cpp\\CMakeLists.txt",
+      "moduleBuildFile": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\build.gradle",
+      "moduleRootFolder": "D:\\AndroidStudioProjects\\DesafioMuxi\\app",
       "ndkDefaultAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",
@@ -169,12 +169,12 @@
       "ndkDefaultStl": "LIBCXX_STATIC",
       "ndkVersion": "21.1.6352462",
       "project": {
-        "compilerSettingsCacheFolder": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\.cxx",
-        "cxxFolder": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\.cxx",
+        "compilerSettingsCacheFolder": "D:\\AndroidStudioProjects\\DesafioMuxi\\.cxx",
+        "cxxFolder": "D:\\AndroidStudioProjects\\DesafioMuxi\\.cxx",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
-        "rootBuildGradleFolder": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi",
+        "rootBuildGradleFolder": "D:\\AndroidStudioProjects\\DesafioMuxi",
         "sdkFolder": "D:\\adroidSDK",
         "isPrefabEnabled": false
       },
@@ -191,7 +191,7 @@
         "SYSTEM": {}
       }
     },
-    "objFolder": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\build\\intermediates\\cmake\\release\\obj",
+    "objFolder": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\build\\intermediates\\cmake\\release\\obj",
     "variantName": "release",
     "validAbiList": [
       "ARMEABI_V7A",
@@ -199,8 +199,8 @@
       "X86",
       "X86_64"
     ],
-    "prefabDirectory": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\release\\prefab",
+    "prefabDirectory": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\release\\prefab",
     "prefabPackageDirectoryList": []
   },
-  "prefabFolder": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\release\\prefab\\x86"
+  "prefabFolder": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\release\\prefab\\x86"
 }

@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.louiscad.splitties:splitties-bitflags-jvm:3.0.0-beta01">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../Gradle/gradle-6.8.2/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-bitflags-jvm/3.0.0-beta01/be5dc5ea86a822fac1a44a5dc4dbdd8327926561/bitflags-jvm-3.0.0-beta01.jar!/" />
+      <root url="jar://C:/Gradle/gradle-6.8.2/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-bitflags-jvm/3.0.0-beta01/be5dc5ea86a822fac1a44a5dc4dbdd8327926561/bitflags-jvm-3.0.0-beta01.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../../Gradle/gradle-6.8.2/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-bitflags-jvm/3.0.0-beta01/b0332e865d73f6ef7754805d4c5c8483db0f64c9/splitties-bitflags-jvm-3.0.0-beta01-sources.jar!/" />
+      <root url="jar://C:/Gradle/gradle-6.8.2/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-bitflags-jvm/3.0.0-beta01/b0332e865d73f6ef7754805d4c5c8483db0f64c9/splitties-bitflags-jvm-3.0.0-beta01-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
