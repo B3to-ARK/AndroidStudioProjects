@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.desafiomuxi"
+    package="com.example.recyclerteste"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -20,11 +20,10 @@
         android:debuggable="true"
         android:extractNativeLibs="false"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="Desafio Muxi"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:testOnly="true"
-        android:theme="@style/Theme.DesafioMuxi" >
+        android:theme="@style/Theme.RecyclerTeste" >
         <activity
             android:name="com.example.desafiomuxi.TelaFruta"
             android:configChanges="orientation|keyboardHidden|screenSize" />
@@ -43,31 +42,31 @@
 
         <provider
             android:name="splitties.views.dsl.material.experimental.MaterialViewInstantiatorInjectProvider"
-            android:authorities="com.example.desafiomuxi.splitties.views.dsl.material.experimental.init"
+            android:authorities="com.example.recyclerteste.splitties.views.dsl.material.experimental.init"
             android:enabled="true"
             android:exported="false"
             android:initOrder="20" >
         </provider>
         <provider
             android:name="splitties.views.dsl.appcompat.experimental.AppCompatViewInstantiatorInjectProvider"
-            android:authorities="com.example.desafiomuxi.splitties.views.dsl.appcompat.experimental.init"
+            android:authorities="com.example.recyclerteste.splitties.views.dsl.appcompat.experimental.init"
             android:enabled="true"
             android:exported="false"
             android:initOrder="21" >
         </provider>
         <provider
             android:name="com.squareup.picasso.PicassoProvider"
-            android:authorities="com.example.desafiomuxi.com.squareup.picasso"
+            android:authorities="com.example.recyclerteste.com.squareup.picasso"
             android:exported="false" />
         <provider
             android:name="splitties.init.AppCtxInitProvider"
-            android:authorities="com.example.desafiomuxi.appctxinitprovider"
+            android:authorities="com.example.recyclerteste.appctxinitprovider"
             android:directBootAware="true"
             android:exported="false"
             android:initOrder="900" />
         <provider
             android:name="androidx.work.impl.WorkManagerInitializer"
-            android:authorities="com.example.desafiomuxi.workmanager-init"
+            android:authorities="com.example.recyclerteste.workmanager-init"
             android:directBootAware="false"
             android:exported="false"
             android:multiprocess="true" />

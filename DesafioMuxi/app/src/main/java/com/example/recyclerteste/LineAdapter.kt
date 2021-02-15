@@ -36,6 +36,7 @@ class LineAdapter(private var listRecyclerItem: ArrayList<Fruits>) :
             TYPE -> {
                 itemViewHolder.name.setText(listRecyclerItem!![position].name)
                 itemViewHolder.price.setText("Valor (dollar): ${listRecyclerItem!![position].price}")
+                //Picasso.get().load(listRecyclerItem!![position].image).into(itemViewHolder.image)
                 Glide.with(view).load(listRecyclerItem!![position].image)
                         .apply(RequestOptions().diskCacheStrategy(DiskCacheStrategy.ALL))
                         .into(itemViewHolder.image)

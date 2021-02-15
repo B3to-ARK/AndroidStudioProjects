@@ -15,14 +15,9 @@ import org.json.JSONObject
 
 
 class MainActivity : AppCompatActivity() {
-
-
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
-        var intent = Intent(this@MainActivity, TelaFruta::class.java)
 
         var dialog = indeterminateProgressDialog("Aguarde", "")
 
@@ -30,7 +25,7 @@ class MainActivity : AppCompatActivity() {
 
         val mRecyclerView: RecyclerView = this.findViewById<RecyclerView>(R.id.recycler)
         var mAdapter: LineAdapter
-        var arrayList_details: ArrayList<Fruits> = ArrayList()
+        val arrayList_details: ArrayList<Fruits> = ArrayList()
         val client = OkHttpClient()
 
         val layoutManager = GridLayoutManager(applicationContext, 2)
@@ -77,12 +72,11 @@ class MainActivity : AppCompatActivity() {
             mRecyclerView.addItemDecoration(
                     DividerItemDecoration(this@MainActivity, DividerItemDecoration.HORIZONTAL))
 
-
         doAsync {
 
             mRecyclerView.onItemClick { recyclerView, position, v ->
 
-
+                val intent = Intent(this@MainActivity, TelaFruta::class.java)
 
                 val b = precoJNI(arrayList_details.get(position).price)
 

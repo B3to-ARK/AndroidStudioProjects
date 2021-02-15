@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.example.desafiomuxi",
+  "applicationId": "com.example.recyclerteste",
   "variantName": "processDebugResources",
   "elements": [
     {
