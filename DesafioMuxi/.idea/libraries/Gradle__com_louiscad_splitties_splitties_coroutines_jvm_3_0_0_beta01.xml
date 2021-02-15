@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.louiscad.splitties:splitties-coroutines-jvm:3.0.0-beta01">
     <CLASSES>
-      <root url="jar://C:/Gradle/gradle-6.8.2/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-coroutines-jvm/3.0.0-beta01/19f8f6b2bd88523133fe7a97e5dcac15e5eb89d/coroutines-jvm-3.0.0-beta01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Gradle/gradle-6.8.2/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-coroutines-jvm/3.0.0-beta01/19f8f6b2bd88523133fe7a97e5dcac15e5eb89d/coroutines-jvm-3.0.0-beta01.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://C:/Gradle/gradle-6.8.2/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-coroutines-jvm/3.0.0-beta01/79c6d586dfc591b0049965ece2bf5d58f38b952a/splitties-coroutines-jvm-3.0.0-beta01-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Gradle/gradle-6.8.2/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-coroutines-jvm/3.0.0-beta01/79c6d586dfc591b0049965ece2bf5d58f38b952a/splitties-coroutines-jvm-3.0.0-beta01-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

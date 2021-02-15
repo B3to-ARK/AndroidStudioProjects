@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AndroidStudioProjects\\DesafioMuxi\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hi\\values-hi.xml",
+            "outputFile": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hi\\values-hi.xml",
             "map": [
                 {
                     "source": "C:\\Gradle\\gradle-6.8.2\\caches\\transforms-2\\files-2.1\\542b023403b82e45a55f4766f9801252\\core-1.5.0-alpha01\\res\\values-hi\\values-hi.xml",
