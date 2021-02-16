@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.espresso:espresso-web:3.3.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Gradle/gradle-6.8.2/caches/transforms-2/files-2.1/25ac1e93973076146904e57c793c53c5/espresso-web-3.3.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Gradle/gradle-6.8.2/caches/transforms-2/files-2.1/25ac1e93973076146904e57c793c53c5/espresso-web-3.3.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Gradle/gradle-6.8.2/caches/transforms-2/files-2.1/25ac1e93973076146904e57c793c53c5/espresso-web-3.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Gradle/gradle-6.8.2/caches/modules-2/files-2.1/androidx.test.espresso/espresso-web/3.3.0/b6db781c6f37de3ea023382a0be5508edee52c2b/espresso-web-3.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Gradle/gradle-6.8.2/caches/modules-2/files-2.1/androidx.test.espresso/espresso-web/3.3.0/e214359953ba52783fcb825f514597dbb35cc05b/espresso-web-3.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

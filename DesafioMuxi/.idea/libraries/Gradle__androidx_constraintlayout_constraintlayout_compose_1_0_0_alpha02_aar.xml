@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.constraintlayout:constraintlayout-compose:1.0.0-alpha02@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Gradle/gradle-6.8.2/caches/transforms-2/files-2.1/04253b76c52732ea03e15b0cf7f019cb/jetified-constraintlayout-compose-1.0.0-alpha02/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Gradle/gradle-6.8.2/caches/transforms-2/files-2.1/04253b76c52732ea03e15b0cf7f019cb/jetified-constraintlayout-compose-1.0.0-alpha02/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Gradle/gradle-6.8.2/caches/transforms-2/files-2.1/04253b76c52732ea03e15b0cf7f019cb/jetified-constraintlayout-compose-1.0.0-alpha02/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
