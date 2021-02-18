@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231026659902",
+    "project_id": "desafiomuxi",
+    "storage_bucket": "desafiomuxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231026659902:android:a774970757e515aae4b76f",
+        "android_client_info": {
+          "package_name": "com.example.recyclerteste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231026659902-8i5jq8mj3cqnviiadm9h61ncgjvp1q1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiU1MIwCyo73swaWuyj_5okAx_azqk7e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231026659902-8i5jq8mj3cqnviiadm9h61ncgjvp1q1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,5 +1,5 @@
 # ninja log v5
-0	1078	634794952	CMakeFiles/native-lib.dir/native-lib.cpp.o	89df4ee7f2b9a2ce
-1079	1197	634794952	D:/AndroidStudioProjects/DesafioMuxi/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	b3aee49956b1a7e4
-2	326	634795439	CMakeFiles/native-lib.dir/native-lib.cpp.o	89df4ee7f2b9a2ce
-327	467	634795440	D:/AndroidStudioProjects/DesafioMuxi/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	b3aee49956b1a7e4
+0	3206	634792330	CMakeFiles/native-lib.dir/native-lib.cpp.o	5ae719d5b402d8b5
+3208	3406	634792331	C:/Users/pokeu/AndroidStudioProjects/DesafioMuxi/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	754a68e5514f0ed0
+1	313	634798942	CMakeFiles/native-lib.dir/native-lib.cpp.o	5ae719d5b402d8b5
+313	398	634798942	C:/Users/pokeu/AndroidStudioProjects/DesafioMuxi/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	754a68e5514f0ed0

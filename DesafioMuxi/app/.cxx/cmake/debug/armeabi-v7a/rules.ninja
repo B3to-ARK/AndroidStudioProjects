@@ -6,7 +6,7 @@
 # It is included in the main 'build.ninja'.
 
 # =============================================================================
-# Project: desafiomuxi
+# Project: recyclerteste
 # Configuration: Debug
 # =============================================================================
 # =============================================================================
@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = D:\adroidSDK\cmake\3.10.2.4988404\bin\cmake.exe -HD:\AndroidStudioProjects\DesafioMuxi\app\src\main\cpp -BD:\AndroidStudioProjects\DesafioMuxi\app\.cxx\cmake\debug\armeabi-v7a
+  command = D:\adroidSDK\cmake\3.10.2.4988404\bin\cmake.exe -HC:\Users\pokeu\AndroidStudioProjects\DesafioMuxi\app\src\main\cpp -BC:\Users\pokeu\AndroidStudioProjects\DesafioMuxi\app\.cxx\cmake\debug\armeabi-v7a
   description = Re-running CMake...
   generator = 1
 
