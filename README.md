@@ -1,5 +1,4 @@
 # AndroidStudioProjects
-projetos do Android Studio
 
 Projeto feito para o desafio Muxi.
 
