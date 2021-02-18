@@ -1,2 +1,0 @@
-com/example/desafiomuxi/BuildConfig.java
- com.example.desafiomuxi.BuildConfig
