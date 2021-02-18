@@ -171,6 +171,7 @@
       "project": {
         "compilerSettingsCacheFolder": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\.cxx",
         "cxxFolder": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\.cxx",
+        "ideBuildTargetAbi": "x86",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
@@ -194,10 +195,7 @@
     "objFolder": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\build\\intermediates\\cmake\\debug\\obj",
     "variantName": "debug",
     "validAbiList": [
-      "ARMEABI_V7A",
-      "ARM64_V8A",
-      "X86",
-      "X86_64"
+      "X86"
     ],
     "prefabDirectory": "C:\\Users\\pokeu\\AndroidStudioProjects\\DesafioMuxi\\app\\.cxx\\cmake\\debug\\prefab",
     "prefabPackageDirectoryList": []
